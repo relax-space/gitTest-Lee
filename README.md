@@ -10,5 +10,8 @@ modify the same file
 commit 1 for rebase
 commit 2 for rebase
 commit 1 by xiao
-commit 2 by xiao
+commit 2 by xiao;
 
+
+test rebase
+test rebase2
